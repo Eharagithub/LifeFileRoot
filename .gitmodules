@@ -1,3 +1,3 @@
 [submodule "front-end"]
 	path = front-end
-	url = ./front-end
+	url = https://github.com/Eharagithub/LifeFile-Frontend.git
